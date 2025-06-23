@@ -1,6 +1,4 @@
 
-<!DOCTYPE html>
-<html>
 <head>
     <style>
         .github-header {
@@ -98,7 +96,6 @@
         <div class="name">Rakibul Hasan</div>
     </div>
 </body>
-</html>
 <!--
 **Rakibul-Hasan-Rifat/Rakibul-Hasan-Rifat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
