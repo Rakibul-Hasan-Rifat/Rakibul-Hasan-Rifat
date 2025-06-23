@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <a href="https://rakibul-hasan-rifat.github.io/github-profile-header-image/index.html"></a>
+ <p align="center">
+  <a href="https://rakibul-hasan-rifat.github.io/github-profile-header-image/">
+    <img src="https://raw.githubusercontent.com/rakibul-hasan-rifat/github-profile-header-image/main/preview.jpg" width="100%" alt="Click to view interactive HTML">
+  </a>
+</p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakibul Hasan
 =====================================================================================================================================
