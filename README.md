@@ -1,5 +1,5 @@
 <div style="height: 500px; display: flex; justify-content: center; align-items: center">
-<img src="https://i.ibb.co/zWhFXzdj/Screenshot-2025-06-24-122557.png" style="max-width: 100%; height: 100%; object-fit: contain;" alt="Screenshot" />
+<img src="https://i.ibb.co/zWhFXzdj/Screenshot-2025-06-24-122557.png" style="width: 100%; height: auto; object-fit: contain; object-position: center;" alt="Screenshot" />
 </div>
 
 <!--
@@ -16,18 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <a href="https://rakibul-hasan-rifat.github.io/github-profile-header-image/index.html"></a>
- <p align="center">
-  <a href="https://rakibul-hasan-rifat.github.io/github-profile-header-image/">
-    <img src="https://raw.githubusercontent.com/rakibul-hasan-rifat/github-profile-header-image/main/preview.jpg" width="100%" alt="Click to view interactive HTML">
-  </a>
-</p>
-<p align="center">
-  <a href="https://rakibul-hasan-rifat.github.io/github-profile-header-image/">
-    🔥 **Rakibul Hasan** 🔥  
-    <sub>(HTML/CSS/JS Developer)</sub>
-  </a>
-</p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakibul Hasan
 =====================================================================================================================================
